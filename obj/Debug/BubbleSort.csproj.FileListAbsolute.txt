@@ -1,0 +1,6 @@
+D:\push\DataStructure\bin\Debug\BubbleSort.exe.config
+D:\push\DataStructure\obj\Debug\BubbleSort.csprojResolveAssemblyReference.cache
+D:\push\DataStructure\bin\Debug\BubbleSort.exe
+D:\push\DataStructure\bin\Debug\BubbleSort.pdb
+D:\push\DataStructure\obj\Debug\BubbleSort.exe
+D:\push\DataStructure\obj\Debug\BubbleSort.pdb
